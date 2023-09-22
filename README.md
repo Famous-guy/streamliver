@@ -12,7 +12,7 @@ A digital wallet app developed in dart and flutter. The idea is to help develope
 
 |                               Wallet                               |                              Change network                              |                               Transfer tokens                               |
 | :----------------------------------------------------------------: | :----------------------------------------------------------------------: | :-------------------------------------------------------------------------: |
-| ![Your wallet](https://faucet.clempe.dev/images/your-wallet-3.png) | ![Change network](https://faucet.clempe.dev/images/change-network-3.png) | ![Transfer tokens](https://faucet.clempe.dev/images/transfer-address-3.png) |
+| ![Your wallet]() | ![Change network]() | ![Transfer tokens]() |
 
 ### Getting started
 
